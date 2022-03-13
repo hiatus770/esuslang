@@ -1,4 +1,4 @@
-# When the shity esolang is sus
+# When the garbage esolang is sus
 Its just a glorified define statement for python
 
 # Usage
